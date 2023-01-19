@@ -1,4 +1,13 @@
-### Hi there 👋
+# Welcome to gkman's GitHub
+
+I am a software developer who dabbles in a lot but focuses on DevOps & SRE
+
+## Languages & Frameworks
+
+Primary: ansible, chef, python, terraform
+Secondary: oclif, ruby, typescript
+
+## Experience
 
 ## Github Stats
 
