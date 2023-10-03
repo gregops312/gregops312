@@ -21,8 +21,8 @@ TBD
 
 ## Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gkman&theme=transparent&show_icons=true&show=reviews,prs_merged" alt="GregOps' Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkman&layout=pie&theme=transparent" alt="Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregops312&theme=transparent&show_icons=true&show=reviews,prs_merged" alt="GregOps' Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregops312&layout=pie&theme=transparent" alt="Languages">
 
 
 <!--
