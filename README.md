@@ -1,6 +1,8 @@
-# Welcome GregOps GitHub
+# Welcome to GregOps's GitHub
 
-I am a software developer who dabbles in a lot but focuses on DevOps & SRE
+- I am a DevOps/SRE Engineer
+- Passionate in reusability, reliability, and automation
+- Proponate of writing reusable IaC code that scales and allows for automation
 
 ## Languages, Frameworks, Services, Platforms, Other
 
