@@ -23,6 +23,7 @@ TBD
 
 ## Useful stuff
 
+- [First Principles of Programming](https://thenextweb.com/news/first-principles-of-programming)
 - [Bash Hackers Wiki](https://bash-hackers.gabe565.com/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [ss64](https://ss64.com/) Command line reference
