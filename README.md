@@ -27,6 +27,7 @@ TBD
 - [Bash Hackers Wiki](https://bash-hackers.gabe565.com/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [ss64](https://ss64.com/) Command line reference
+- [Project Euler](https://projecteuler.net/) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 - [Wargames](https://overthewire.org/wargames/) help you to learn and practice security concepts in the form of fun-filled games
 
 
