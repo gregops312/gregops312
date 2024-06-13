@@ -21,6 +21,14 @@
 
 TBD
 
+## Useful stuff
+
+- [Bash Hackers Wiki](https://bash-hackers.gabe565.com/)
+- [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [ss64](https://ss64.com/) Command line reference
+- [Wargames](https://overthewire.org/wargames/) help you to learn and practice security concepts in the form of fun-filled games
+
+
 ## Github Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gregops312&theme=transparent&show_icons=true&show=reviews,prs_merged" alt="GregOps' Github Stats">
